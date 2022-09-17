@@ -1,4 +1,4 @@
-Shell navigation project
+SHELL NAVIGATION PROJECT
 
 Common syntax commond used in Shell Unix system:
 
@@ -19,3 +19,7 @@ rm -r / rmdir $ remove directories and content inside
 mv # rename file [mv filename1 filename2 - rename fil1 to fil2]
 
 mv # move file [mv filename /tmp - move file to tmp]
+
+mkdir # create new directory
+
+END :)
